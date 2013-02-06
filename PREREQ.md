@@ -1,9 +1,9 @@
-Chef Introductory Workshop
+# Chef Introductory Workshop
 
 This document describes the prerequisites that attendees should meet
 to get the most out of the workshop.
 
-# General Requirements
+## General Requirements
 
 As this is a workshop for people who will be managing linux-based 
 infrastructure components, attendees should be familiar with basic to 
@@ -24,7 +24,7 @@ generation programming language such as Perl, Python, Php or Ruby.
 
 Knowledge of Ruby is helpful, but not required.
 
-# Workstation Requirements
+## Workstation Requirements
 
 Attendees should bring a wifi-enabled laptop to the workshop. The
 following operating systems have been tested as *workstation systems*
