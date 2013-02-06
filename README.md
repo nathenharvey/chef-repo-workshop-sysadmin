@@ -1,10 +1,12 @@
-Welcome to Opscode's Chef 101 Workshop for Linux/Unix System
+# Chef Introductory Workshop
+
+Welcome to Opscode's Chef Introductory Workshop for Linux/Unix System
 Administrators!
 
 See PREREQ.md for prerequisites for this workshop.
 
 This is the
-[Chef Repository](http://wiki.opscode.com/display/chef/Chef+Repository)
+[Chef Repository](http://docs.opscode.com/essentials_repository.html)
 for the Linux/Unix system administrator focused workshop. It contains
 the cookbooks, roles and data bags required to set up the initial
 system used in the hands on exercises.
